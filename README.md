@@ -10,6 +10,7 @@ Ver el reto de Classrooom para las tareas de gestión
 Este proyecto fue creado con Google Colab. Para ejecutar un proyecto de Flask, solo hay que pip install *flask_ngrok*
 
 *from flask_ngrok import run_with_ngrok* 
+
 from flask import Flask
 
 app = Flask(__name__)
